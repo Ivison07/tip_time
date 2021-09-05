@@ -6,7 +6,7 @@ Esse projeto mostra um calulador de gorjetas baseado no preço do serviço, pode
 
 - Criação e modificação em XML
 - Linguagem em Kotlin
-- EditText, RadioGrup, Radio Button, Switch
+- EditText, RadioGroup, Radio Button, Switch
 - Inserção de cores no projeto (Primárias e Secundárias)
 - Adaptação do tema claro e tema escuro
 - Inserir Icones
